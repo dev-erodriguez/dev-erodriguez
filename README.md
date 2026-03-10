@@ -61,9 +61,7 @@ I build software focused on <b>automation, optimization and scalable systems</b>
 ## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://github.com/dev-erodriguez">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-erodriguez&show_icons=true&theme=tokyonight&hide_border=true"/>
-</a>
+
 </p>
 
 <p align="center">
