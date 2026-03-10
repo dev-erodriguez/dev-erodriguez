@@ -1,31 +1,86 @@
-Hi 👋 My name is Elizardo Rodriguez
-===================================
+<h1 align="center">Hi 👋, I'm Elizardo Rodriguez</h1>
+<h3 align="center">Software Developer | .NET | C# | Web Applications</h3>
 
-Web Developer
--------------
-
-### Skills
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+<p align="center">
+I build software focused on <b>automation, optimization and scalable systems</b>.
 </p>
 
+---
 
-### Socials
+## 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/dev-erodriguez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/erodriguez089" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 💻 Web developer focused on **.NET and backend systems**
+- 🧠 Interested in **algorithms and optimization problems**
+- 🏫 Currently building solutions for **academic and educational systems**
+- ⚙️ Experience developing **SaaS platforms**
+- 📍 Based in **Paraguay**
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🧰 Tech Stack
 
-<a href="http://www.github.com/dev-erodriguez"><img src="https://github-readme-stats.vercel.app/api?username=dev-erodriguez&show_icons=true&hide=prs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dev-erodriguez's GitHub stats" /></a>
+### Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+</p>
 
-<a href="http://www.github.com/dev-erodriguez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-erodriguez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true&count_private=true" /></a>
+### Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
+</p>
 
+### Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+</p>
+
+### Tools
+- Entity Framework
+- REST APIs
+- Git / GitHub
+- SQL Server
+- System Design
+
+---
+
+## 🧩 Projects I'm Interested In
+
+- 📚 **Academic Management Systems**
+- 🧠 **Optimization Algorithms (Genetic Algorithms)**
+- ☁️ **SaaS Platforms**
+- 📂 **Document Management Systems**
+- 🤖 **Automation Tools**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<a href="https://github.com/dev-erodriguez">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-erodriguez&show_icons=true&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+<p align="center">
+<a href="https://github.com/dev-erodriguez">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-erodriguez&theme=tokyonight&hide_border=true"/>
+</a>
+</p>
+
+---
+
+## 🌎 Connect With Me
+
+<p>
+<a href="https://github.com/dev-erodriguez"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://twitter.com/erodriguez089"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
+
+---
+
+⭐ From [dev-erodriguez](https://github.com/dev-erodriguez)
