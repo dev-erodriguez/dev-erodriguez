@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elizardo Rodriguez</h1>
-<h3 align="center">Software Developer | .NET | C# | Web Applications</h3>
+<h3 align="center">Software Engineer | .NET | C# | Web Applications</h3>
 
 <p align="center">
 I build software focused on <b>automation, optimization and scalable systems</b>.
